@@ -1,0 +1,1 @@
+For more details https://docs.opencv.org/4.2.0/d4/dc6/tutorial_py_template_matching.html
